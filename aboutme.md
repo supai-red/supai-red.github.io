@@ -9,7 +9,7 @@ My name is Andrea Christelle and these are my interests:
 - data science, politics, ethics, philosophy
 - insights & ideas
 
-What else do you need?
+Studying philosophy taught me to ask hard questions. 
 
 ### my history
 
