@@ -14,3 +14,7 @@ Studying philosophy taught me to ask hard questions.
 ### my history
 
 In my [TEDx talk](https://www.youtube.com/watch?v=ea6WD9ulxFw) I reflect on the importance of values and nature. Bonus: cool digeridoo intro.
+
+### my passion
+
+### reach out
