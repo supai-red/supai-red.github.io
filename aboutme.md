@@ -4,7 +4,7 @@ title: About me
 subtitle: more info
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Andrea Christelle and these are my interests:
 
 - data science, politics, ethics, philosophy
 - insights & ideas
